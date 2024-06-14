@@ -1,0 +1,12 @@
+pandas
+tqdm
+numpy
+scikit-learn
+scipy
+fire
+matplotlib
+wandb==0.13.4
+torch==1.12.1
+pytorchltr==0.2.1
+munch
+statsmodels

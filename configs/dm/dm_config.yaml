@@ -1,0 +1,53 @@
+Datasets:
+  Full:
+    Location: "./"
+    UseLocalFiles: False
+    Normalization: True
+    NormalizationType: "Query"
+    FilterQueries: True
+    fold: 1
+    ID: "MSLR30K"
+    Bsz: 48
+    Thr: 300
+  Distilled:
+    SampleQueryWise: False
+    SampleDocWise: True
+    CompressionRatio: 1
+    QuerySize: 0
+    RandInit: True
+    Bsz: 16
+    ExplicitRelLabels: -1 # If < 0 not enabled, should be up to max rel labels for the original dataset
+    RandomSelectionBudget: -1 # If > 0, select this number of docs per label, otherwise, there would be only mean vector
+
+Trainer:
+  GMEpochs: 10
+  Epochs: 20
+  ModelInstances: 500
+  BatchSize: 256
+  Suffle: False
+  RankingLoss: POINTWISEREGLOSS
+  DistillLoss: MSEGRADIENTMATCHLOSS
+  Optimizer: ADAM
+  DistillLR: 0.01
+  RankingLR: 0.1
+  ModelType: "MLP"
+  ModelScale: 1
+  MultiBatchDistilledData: True
+  LabelWiseDistillation: True
+
+General:
+  Device: "cuda"
+  Deterministic: True
+  Seed: 27
+  Runs: 5
+  Wandb: True
+  Alg: "DM"
+  SaveDir: "./"
+  ValidFreq: 5
+  ValidPatience: 25
+  ValidFreqInstance: 1
+  ValidPatienceInstance: 2
+
+Experiment:
+  Name: "dm"
+  CodeTag: "v0.4.6_et"

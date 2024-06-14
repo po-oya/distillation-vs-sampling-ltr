@@ -1,0 +1,180 @@
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID MSLR30K --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID MSLR30K --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID ISTELLAS --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID ISTELLAS --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.005
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.01
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.02
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.03
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.04
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 2 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 4 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 8 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 16 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
+--Datasets.Full.ID YAHOO --Datasets.Full.Normalization False --General.Seed 32 --Datasets.Distilled.RandInit False --Datasets.Distilled.CompressionRatio 0.05
